@@ -16,9 +16,9 @@ from limit import QUOTA, VIP
 
 
 class BotText:
-    start = "Welcome to YouTube Download bot. Type /help for more information."
+    start = "Welcome to YouTube Download bot. Owner @D2D_Abishek."
 
-    help = f"""
+    help = f""send url"
 1. This bot should works at all times. 
 If it stops responding, please wait a few minutes or let me know on Telegram or GitHub.
 
